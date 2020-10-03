@@ -1,20 +1,20 @@
 OSD COursera Courses List
-1) Open Source Software Development, Linux and Git
-        --> https://bit.ly/2Gm1i7J
-2) Operating Systems and You: Becoming a Power User
+1) Operating Systems and You: Becoming a Power User (GR, SR, GA, SA, PA)
         --> https://bit.ly/36slUpu
-3) Using Python to Interact with the Operating System
+2) Open Source Software Development, Linux and Git (GA, SA, PA)
+        --> https://bit.ly/2Gm1i7J
+3) Using Python to Interact with the Operating System (PA)
         --> https://bit.ly/36AGzYm
 
 OSD Udacity Courses
 
-4) Introduction to Operating Systems
+4) Introduction to Operating Systems (SR, SA, PA)
         --> https://bit.ly/3izSLLH
-5) Advanced Operating Systems
+5) Advanced Operating Systems (PA)
         --> https://bit.ly/30LI8iP
 
 
 OSD ocw.mit course
 
-6) Operating System Engineering
+6) Operating System Engineering (PA)
         --> https://bit.ly/3cY7KOi
