@@ -15,3 +15,20 @@
         --> [Click Here To Enroll](https://bit.ly/3lax4mZ)
 5) Software Development Process (PA)
         --> [Click Here To Enroll](https://bit.ly/2HUC4hh)
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+### DBMS Guided Projects
+ 
+1) Agile Projects: Develop Product Wireframe Prototypes in Miro
+        --> [Click Here To Enroll](https://bit.ly/3izb976)
+2) Agile Projects: Creating User Stories with Value in Taiga 
+        --> [Click Here To Enroll](https://bit.ly/33tpM7Q)
+3) Agile Projects: Defining Epics and Mapping Value with Taiga
+        --> [Click Here To Enroll](https://bit.ly/33v9Di8)
+4) Agile Projects: Developing Tasks with Taiga
+        --> [Click Here To Enroll](https://bit.ly/3iyGCpW)
+5) Scrum Team Building Using Games and Interactive Tools
+        --> [Click Here To Enroll](https://bit.ly/2Gsl2qb)
+6) Introduction to Project Management
+        --> [Click Here To Enroll](https://bit.ly/36xdblR)
