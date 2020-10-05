@@ -22,3 +22,27 @@
 
 7) Databases: Advanced Topics in SQL (PA)
         --> [Click Here To Enroll](https://bit.ly/3cWEQy4)
+_________________________________________________________________________________________________________________________________________________________________________________
+
+### DBMS Guided Projects
+ 
+1) Querying Databases using SQL SELECT Statement
+        --> [Click Here To Enroll](https://bit.ly/3ngaxqB)
+2) Introduction to Relational Database and SQL 
+        --> [Click Here To Enroll](https://bit.ly/2GrMjJl)
+3) Intermediate Relational Database and SQL
+        --> [Click Here To Enroll](https://bit.ly/2GAiNB9)
+4) Advanced Relational Database and SQL
+        --> [Click Here To Enroll](https://bit.ly/36xK4Pr)
+5) Creating Database Tables with SQL
+        --> [Click Here To Enroll](https://bit.ly/2GrMa8L)
+6) Retrieve Data using Single-Table SQL Queries
+        --> [Click Here To Enroll](https://bit.ly/3iv6VgT)
+7) Retrieve Data with Multiple-Table SQL Queries
+        --> [Click Here To Enroll](https://bit.ly/3jxq3vT)
+8) Performing Data Aggregation using SQL Aggregate Functions
+        --> [Click Here To Enroll](https://bit.ly/2SpbXRA)
+9) Manipulating Data with SQL
+        --> [Click Here To Enroll](https://bit.ly/30AQE3Y)
+10) Performing Data Definition and Manipulation in SQL
+        --> [Click Here To Enroll](https://bit.ly/3jyf8SS)
