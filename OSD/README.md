@@ -13,8 +13,22 @@ OSD Udacity Courses
 5) Advanced Operating Systems (PA)
         --> https://bit.ly/30LI8iP
 
-
 OSD ocw.mit course
 
 6) Operating System Engineering (PA)
         --> https://bit.ly/3cY7KOi
+___________________________________________________________________________________________________________________________________________________________________________________
+OSD Guided Projects
+
+1) Create Python Linux Script to Generate a Disk Usage Report
+	--> https://bit.ly/3iBB7H3
+2) Command Line in Linux
+	--> https://bit.ly/3iwv4ns
+3) Practical Vim Editor Commands on Linux
+	--> https://bit.ly/3jwSHgJ
+4) Create User Directory and Files with Linux Commands
+	--> https://bit.ly/33wJa40
+5) Introduction to Bash Shell Scripting
+	--> https://bit.ly/3d2hMxy
+6) Practical Introduction to the Command Line
+	-->https://bit.ly/33yzfed
