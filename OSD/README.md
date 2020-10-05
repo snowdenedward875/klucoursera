@@ -20,15 +20,15 @@ OSD ocw.mit course
 ___________________________________________________________________________________________________________________________________________________________________________________
 OSD Guided Projects
 
-1) Create Python Linux Script to Generate a Disk Usage Report
+1) Create Python Linux Script to Generate a Disk Usage Report (SA, PA)
 	--> https://bit.ly/3iBB7H3
-2) Command Line in Linux
+2) Command Line in Linux (SA, PA)
 	--> https://bit.ly/3iwv4ns
-3) Practical Vim Editor Commands on Linux
+3) Practical Vim Editor Commands on Linux (SA, PA)
 	--> https://bit.ly/3jwSHgJ
-4) Create User Directory and Files with Linux Commands
+4) Create User Directory and Files with Linux Commands (SA, PA)
 	--> https://bit.ly/33wJa40
-5) Introduction to Bash Shell Scripting
+5) Introduction to Bash Shell Scripting (SA, PA)
 	--> https://bit.ly/3d2hMxy
-6) Practical Introduction to the Command Line
+6) Practical Introduction to the Command Line (SA, PA)
 	-->https://bit.ly/33yzfed
