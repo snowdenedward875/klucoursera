@@ -1,5 +1,5 @@
 - [x] Do Login To Coursera Before Enrolling A Course :+1:
-- [x] Click On The Link Below The Course Name To Go To the Enrolling Page :+1:
+- [x] Click On The Link Beside The Course Name To Go To the Enrolling Page :+1:
 
 
 ### OSD Coursera Courses List
