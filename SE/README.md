@@ -18,7 +18,7 @@
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-### DBMS Guided Projects
+### SE Guided Projects
  
 1) Agile Projects: Develop Product Wireframe Prototypes in Miro
         --> [Click Here To Enroll](https://bit.ly/3izb976)
