@@ -1,3 +1,3 @@
 # klucoursera
 
-Repository For Online Courses
+Repository For Online Courses Quizes
