@@ -1,3 +1,6 @@
+#### - [x] Do Login To Coursera Before Enrolling A Course :+1:
+
+
 ### OSD Coursera Courses List
  1) Operating Systems and You: Becoming a Power User **(GR, SR, GA, SA, PA)**
          --> [Click Here To Enroll](https://bit.ly/36slUpu)
